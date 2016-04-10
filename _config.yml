@@ -1,0 +1,28 @@
+name: SEJ Tech
+favicon: null
+layout_spectrum: 0.9466398269869387
+typography_spectrum: 0.7964897498022765
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#F7EDF0'
+    - '#F4CBC6'
+    - '#F4AFAB'
+    - '#F4EEA9'
+    - '#F4F482'
+  brandStrength: 0.763660128461197
+  lightness: 0.9479203128721565
+  saturation: 0.9641747726127505
+  rhythmicContrast: 0.2884954856708646
+purpose: []
